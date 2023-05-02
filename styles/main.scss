@@ -1,7 +1,8 @@
-@import "./elements/container";
-
 @import "./global/normalize";
+@import "../fonts/font";
 @import "./global/global";
+
+@import "./elements/container";
 
 @import "./sections/header";
 @import "./sections/hero";
